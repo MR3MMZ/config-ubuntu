@@ -10,5 +10,14 @@ git config --global user.password "your password"
 git config --global credential.helper store
 ```
 
+> setup golang
+```
+sudo apt install golang-go && go version
+bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+source ~/.gvm/scripts/gvm
+sudo apt install bison
+sudo apt install make
+gvm && gvm version
+```
 
 
