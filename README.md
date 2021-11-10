@@ -49,6 +49,7 @@ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 docker --version && docker-compose --version
 
 ```
+<br>
 
 > setup aws cli
 ``` 
