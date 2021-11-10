@@ -9,6 +9,7 @@ git config --global user.email "your email"
 git config --global user.password "your password"
 git config --global credential.helper store
 ```
+<br>
 
 > setup golang
 ```
