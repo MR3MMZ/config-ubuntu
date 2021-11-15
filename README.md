@@ -61,6 +61,8 @@ unzip awscliv2.zip
 sudo ./aws/install
 aws --version
 ```
+<br>
+
 
 > setup themes
 ```
