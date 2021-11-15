@@ -62,4 +62,8 @@ sudo ./aws/install
 aws --version
 ```
 
+> setup themes
+```
+```
+
 
