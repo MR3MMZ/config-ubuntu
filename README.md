@@ -1,6 +1,11 @@
 # config-ubuntu
 <br>
 
+> setup ssh
+```
+ssh-keygen
+```
+
 > setup git
 ```
 sudo apt install git -y && git version
