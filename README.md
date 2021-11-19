@@ -75,4 +75,9 @@ aws --version
 
 ```
 
+> setup chrome
+```
+ chrome://flags/ 
+```
+
 
